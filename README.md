@@ -1,7 +1,7 @@
 # Tableau-Citi-Bike-Challenge
 ![images](https://media.timeout.com/images/105887995/image.jpg)
 
-##Background
+## Background
 
 Since 2013, the Citi Bike program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, bike data is collected, organized, and made public on the Citi Bike DataLinks to an external site. webpage.
 
@@ -10,5 +10,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 ## Deployment link
 Please find below the link to the Tableau dashboard, showcasing the results of the analysis: 
 
-## Methodology
+https://public.tableau.com/app/profile/gauri.gupta6120/viz/CitibikeAnalysisDashboard_16813318594590/CitibikeAnalysisOverviewandConclusionSummaryoffindings?publish=yes
+
 
